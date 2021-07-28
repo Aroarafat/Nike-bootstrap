@@ -1,0 +1,16 @@
+.background-color{
+    background-color: rgb(231, 193, 199);
+}
+.Nike-text-color{
+    color:#FA804C;
+}
+.button-customised{
+    background-image: linear-gradient(to bottom, #3D4FF3  100%,#3543BC 100%);
+    color: white;
+   border-radius: 8px;
+   padding: 10px 18px;
+   border: none;}
+   
+   
+      
+   
